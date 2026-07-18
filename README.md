@@ -4,24 +4,19 @@ Repository containing my completed tasks for the **CodeAlpha Python Programming 
 
 CodeAlpha is a software development company offering hands-on internship programs in Python development and scripting, covering fundamentals, data structures, file handling, OOP concepts, and popular libraries such as Pandas, NumPy, and Flask.
 
-This repository includes **4 completed tasks**, each available in **English** (`python_en/`) and **French** (`python_fr/`).
-
+This repository includes **4 completed tasks**.
 ---
 
 ## 📁 Repository Structure
 
 ```
 CodeAlpha_Python_Programming_Tasks/
-├── python_en/
+├── python/
 │   ├── task1_hangman.py
 │   ├── task2_portfolio.py
 │   ├── task3_automation.py
 │   └── task4_chatbot.py
-├── python_fr/
-│   ├── tache1_pendu.py
-│   ├── tache2_portefeuille.py
-│   ├── tache3_automatisation.py
-│   └── tache4_chatbot.py
+|
 └── README.md
 ```
 
