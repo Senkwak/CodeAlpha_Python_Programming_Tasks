@@ -11,13 +11,15 @@ This repository includes **4 completed tasks**.
 
 ```
 CodeAlpha_Python_Programming_Tasks/
-├── python/
-│   ├── task1_hangman.py
-│   ├── task2_portfolio.py
-│   ├── task3_automation.py
-│   └── task4_chatbot.py
+├── README.md
 |
-└── README.md
+├── task1_hangman.py
+|
+├── task2_portfolio.py
+|
+├── task3_automation.py
+│
+└── task4_chatbot.py
 ```
 
 ---
